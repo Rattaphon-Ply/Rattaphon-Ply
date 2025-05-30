@@ -8,6 +8,8 @@ Developer
 * ✉️  You can contact me at [rattaphonsiri@gmail.com](mailto:rattaphonsiri@gmail.com)
 * 🧠  I'm learning ReactJS, NodeJS, Express
 
+<img src="https://komarev.com/ghpvc/?username=Rattaphon-Ply&style=flat-square&color=blue" alt="account counter"/>
+
 ### Skills
 
 
