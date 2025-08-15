@@ -6,7 +6,7 @@ Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [rattaphonsiri@gmail.com](mailto:rattaphonsiri@gmail.com)
-* 🖥️  See my portfolio at [https://resume-and-todolist-test.netlify.app/](http://resume-and-todolist-test.netlify.app/)
+* 🖥️  See my portfolio at [https://resume-rattaphon.netlify.app/](https://resume-rattaphon.netlify.app/)
 * 🧠  I'm learning ReactJS, NodeJS, Express
 
 <img src="https://komarev.com/ghpvc/?username=Rattaphon-Ply&style=flat-square&color=blue" alt="account counter"/>
